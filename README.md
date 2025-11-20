@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Welcome to my GitHub.</h1>
 
-<p>I'm <b>Abubaker Kamal</b>, a Junior Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Sudan</b>. I specialize in <b>Desktop Development</b> using .NET Framework, C#, and SQL Server.</p>
+<p>I'm <b>Abubaker Kamal</b>, a Junior Software Developer from <b>Sudan</b>. I specialize in <b>Desktop Development</b> using .NET Framework, C#, and SQL Server.</p>
 
 <h3>📚 Education</h3>
 <ul>
